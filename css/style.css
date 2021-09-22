@@ -95,7 +95,7 @@ p {
 .top-img {
   width: 100%;
   height: 900px;
-  background-image: url(https://github.com/comoriya/midoriya/blob/main/img/%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC.jpeg) no-repeat center right/contain;
+  background: url(https://github.com/comoriya/midoriya/blob/main/img/%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC.jpeg?raw=true) no-repeat center right/contain;
   position: relative;
 }
 
